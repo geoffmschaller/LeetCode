@@ -1,8 +1,8 @@
-#include <iostream>
+#include "./solutions/TwoSum/TwoSum.h"
 
 int
 main()
 {
-	std::cout << "Hello, World!" << std::endl;
+	//TwoSum();
 	return 0;
 }
